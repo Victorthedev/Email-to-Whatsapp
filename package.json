@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "imap-simple": "^5.1.0"
+    "imap-simple": "^5.1.0",
+    "twilio": "^4.22.0"
   }
 }
